@@ -1,3 +1,5 @@
+//CodeJam 2019 qualifying round
+
 //initial development test inputs, later replace with stdin:
 // let N = 0; //Math.floor(Math.random() * 10000);
 let T = 0;
