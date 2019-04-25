@@ -17,4 +17,4 @@ function chant (mantra, repetitions) {
 }
 
 // chant(migstema, reps);
-chant(tibetanMigstema, reps);
+chant(migstema, reps);
