@@ -6,7 +6,7 @@ const tibetanMigstema = "MIG ME TSE WAI TER CHEN CHÄN RÄ ZIG\nDRI ME KHYEN PAI
 //console.log(tibetanMigstema);
 
 //const maxReps = (Math.pow(2,53)-1);
-const reps = ( (Math.pow(10, 6) ) ); //one million
+const reps = ( (Math.pow(10, 6) ) ); //one million reps
 //console.log(reps);
 
 function chant (mantra, repetitions) {
@@ -17,4 +17,4 @@ function chant (mantra, repetitions) {
 }
 
 // chant(migstema, reps);
-chant(migstema, reps);
+chant(tibetanMigstema, reps);
