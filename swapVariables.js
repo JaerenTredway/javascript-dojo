@@ -62,3 +62,23 @@ b = a ^ b;
 a = a ^ b;
 
 console.log('Swapped values:\na: ' + a + '\nb: ' + b);
+
+
+//********* experiment area: ****************************
+
+// a = 150;
+// b = 160;
+//
+// // a = a ^ b;
+// // console.log("\n\n\n" + a, b);
+// // b = a ^ b;
+// // console.log(a, b);
+// // a = a ^ b;
+// // console.log(a, b);
+//
+// //a = a ^ b;
+// console.log("\n\n\n" + a, b);
+// b = a ^ b;
+// console.log(a, b);
+// a = a ^ b;
+// console.log(a, b);
