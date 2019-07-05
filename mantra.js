@@ -7,11 +7,11 @@ const combinedMigstema =
     `    MIG ME TSE WAI TER CHEN CHÄN RÄ ZIG\r
     Avalokiteshvara, great treasure of unspecific compassion,\n\n
     DRI ME KHYEN PAI WANG PO JAM PÄI YANG\r
-    Manjushri, master of stainless wisdom,\n\n
+    Manjushri, master of crystal clear wisdom,\n\n
     DÜ PUNG MA LÜ JOM DZÄ SANG WAI DAG\r
     Vajrapani, destroyer of the hosts of maras,\n\n
     GANG CHÄN KHÄ WAI TSUG GYÄN TSONG KHA PA,\r
-    Tsongkhapa, crown ornament of the scholars of the Land of the Snows,\n\n
+    Je Tsongkhapa, crown ornament of the scholars of the Land of the Snows,\n\n
     LO ZANG DRAG PA ZHAB LA SÖL WA DEB\r
     O Losang Dragpa I bow to you, at your feet I pray.\n\n`;
 
