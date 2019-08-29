@@ -6,7 +6,7 @@ const tibetanMigstema = "MIG ME TSE WAI TER CHEN CHÄN RÄ ZIG\nDRI ME KHYEN PAI
 const combinedMigstema =`MIG ME TSE WAI TER CHEN CHÄN RÄ ZIG\r
 Avalokiteshvara, great treasure of unspecific compassion,\n
 DRI ME KHYEN PAI WANG PO JAM PÄI YANG\r
-Manjushri, master of crystal clear wisdom,\n
+Manjushri, master of pure wisdom,\n
 DÜ PUNG MA LÜ JOM DZÄ SANG WAI DAG\r
 Vajrapani, destroyer of the hosts of maras,\n
 GANG CHÄN KHÄ WAI TSUG GYÄN TSONG KHA PA,\r
